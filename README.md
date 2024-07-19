@@ -83,13 +83,3 @@ We welcome contributions to improve the HDFC Bank Statement Analyzer. Please fol
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- HDFC Bank for providing the statement format
-- The Streamlit team for their excellent data app framework
-- Contributors and maintainers of Pandas and Plotly
-
-## Contact
-
-For any queries or support, please open an issue in the GitHub repository or contact the maintainer at [monish.emailbox@gmail.com](mailto: monish.emailbox@gmail.com).
